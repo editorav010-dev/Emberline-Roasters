@@ -2,6 +2,8 @@
 
 A premium, small-batch specialty coffee e-commerce prototype. Six meticulously curated coffees with SVG bag art, tasting notes, brew recipes and a full shopping flow — built with React + Vite + Tailwind CSS.
 
+![Emberline Roasters Demo](assets/demo.gif)
+
 **Live preview:** https://editorav010-dev.github.io/Emberline-Roasters/
 
 Repo: https://github.com/editorav010-dev/Emberline-Roasters
